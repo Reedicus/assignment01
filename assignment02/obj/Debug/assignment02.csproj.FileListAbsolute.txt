@@ -1,0 +1,11 @@
+c:\users\student\documents\visual studio 2015\Projects\assignment02\assignment02\bin\Debug\assignment02.exe.config
+c:\users\student\documents\visual studio 2015\Projects\assignment02\assignment02\bin\Debug\assignment02.exe
+c:\users\student\documents\visual studio 2015\Projects\assignment02\assignment02\bin\Debug\assignment02.pdb
+c:\users\student\documents\visual studio 2015\Projects\assignment02\assignment02\obj\Debug\assignment02.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\assignment02\assignment02\obj\Debug\assignment02.Properties.Resources.resources
+c:\users\student\documents\visual studio 2015\Projects\assignment02\assignment02\obj\Debug\assignment02.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2015\Projects\assignment02\assignment02\obj\Debug\assignment02.exe
+c:\users\student\documents\visual studio 2015\Projects\assignment02\assignment02\obj\Debug\assignment02.pdb
+C:\Users\student\Documents\Reed\assignment02\assignment02\bin\Debug\assignment02.exe.config
+C:\Users\student\Documents\Reed\assignment02\assignment02\obj\Debug\assignment02.exe
+C:\Users\student\Documents\Reed\assignment02\assignment02\obj\Debug\assignment02.pdb
